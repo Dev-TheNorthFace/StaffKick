@@ -1,0 +1,16 @@
+# Plugin : By SlaxxyQC
+
+name: StaffKick
+api: 4.0.0
+version: 1.0.0
+main: SlaxxyQC\StaffKick\Main
+author: SlaxxyQC 
+
+commands:
+  staffkick: 
+    description: "Cette command ouvre un Menu pour kick des joueur(s)"
+    permission: staffkick.use
+
+permissions:
+  staffkick.use:
+    default: op
