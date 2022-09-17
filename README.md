@@ -9,5 +9,7 @@ Es:
 Staff kick es un plugin que abre un menú en la interfaz de usuario desde donde puedes seleccionar un jugador y también elegir el motivo de su patada!
 
 Required dependency: FormAPI
+
 Dépendance obligatoire : FormAPI
+
 Dependencia requerida: FormAPI
